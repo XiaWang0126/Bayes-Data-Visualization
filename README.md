@@ -1,14 +1,15 @@
-# Network-analytics
+# Data Visualization
 
 ## Module overview
 
-Networks are ubiquitous: job offerings reach us via inter-personal connections; what we see on the screen of our digital device is a function of the relationships we develop in the digital world; market valuations are ― largely ― the byproduct of social influence, which accumulates and spreads over relations. This module provides students with cutting-edge network theories and practical tools to appreciate the organization and functioning of disparate networks. Ultimately, the goal is to develop a distinctive angle on how networks bring value to individuals, organizations, and communities.
+This module is a journey into the art and science of creating memorable charts, which grab the attention of the audience and successfully convey insights and narratives. Pleasant journeys require good companions: infographic --- i.e., the field that investigates the representation of information, data, and knowledge --- will offer the theoretical platform for the module; Python will make things happen (at least on our screen). Consistently with the teaching philosophy of the module leader, each lecture integrates theory and practice.
 
 ## Learning objectives
 
-- appreciate the properties of networks;
-- appreciate the properties of communities of nodes belonging to a network;
-- appreciate the properties of individual nodes belonging to a network;
-- visually represent the key features of networks;
-- leverage the most advanced Python modules for network analytics;
-- mobilize key network analytics notions and tools in order to produce elegant, effective, and efficient solutions to practical problems in the field of business strategy, product innovation, and operations.
+In terms of learning objectives, by the end of the module, students should be able to:
+
+- Generate and evaluate visual forms for appropriateness, context, and meaning;
+- Design and execute statistical charts with a particular emphasis on massive datasets;
+- Design and execute multidimensional visualizations involving temporal and geo-spatial dimensions;
+- Design and execute interactive visualizations;
+- Leverage the visualization capabilities of best in class Python modules, namely, Matplotlib and Plotly.
